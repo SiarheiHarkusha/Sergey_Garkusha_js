@@ -1,0 +1,21 @@
+.react{
+    background-color: rgb(216, 165, 146);
+    margin: 200px auto 0px;
+    width: 450px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+.jquary{
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 100px;
+    margin-bottom: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 80px;
+}
+
